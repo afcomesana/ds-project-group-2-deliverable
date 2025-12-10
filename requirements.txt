@@ -1,0 +1,6 @@
+# External dependencies (libraries)
+numpy
+matplotlib
+pandas
+scikit-learn
+joblib
