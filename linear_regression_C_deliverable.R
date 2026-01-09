@@ -1,3 +1,4 @@
+### Developed by Moutushi Sen ###
 # run_C_linear_regression_clean.R
 # Cleaned, robust linear regression pipeline for C1/C2/C3
 # - requires folders: Discharge, Meteo_csv, Rivers_csv, Meteo_csv writable
@@ -317,3 +318,4 @@ cat("LM predictions and percentages saved in Meteo_csv/\n")
 # done
 # -------------------------
 message("Script finished successfully.")
+
