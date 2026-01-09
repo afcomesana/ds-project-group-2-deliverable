@@ -9,3 +9,5 @@ Additional options are included to group geographically close river inflows, for
 main.py can be run in terminal, and the script contains an instruction of the options.
 
 linear_regression_deliverable.R contains an example regression in R with explanatory comments, in case one prefers working in R and test feature selection there.
+
+linear_regression_C_deliverable.R is an alternate version for regression in R.
