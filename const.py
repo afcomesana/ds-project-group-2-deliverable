@@ -1,3 +1,4 @@
+# Author: Alberto Fernández Comesaña
 import os
 
 # Models will be stored within the 'models' module
