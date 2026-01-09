@@ -1,3 +1,4 @@
+### Developed by Moutushi Sen ###
 # run_C_nn.R
 # ------------------------------------------
 # Train simple MLP (nnet) for C1, C2, C3 using
@@ -238,3 +239,4 @@ writeLines(
 )
 
 cat("Neural Network finished. Outputs written to:", nn_dir, "\n")
+
