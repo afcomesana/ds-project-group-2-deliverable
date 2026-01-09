@@ -1,3 +1,6 @@
+# Author: Henrik Jonasson #
+# Example of linear regression for predicting interface flows, with explaination of all steps #
+
 library(corrplot)
 library(Hmisc)
 
