@@ -1,3 +1,5 @@
+# Author: Alberto Fernández Comesaña
+
 import re
 import os
 import sys
